@@ -862,6 +862,7 @@ h4 {
 }
 .figure_caption {
     font-size: 19px;
+    color: black;
 }
 .figure_caption-cite {
     font-style: initial;
