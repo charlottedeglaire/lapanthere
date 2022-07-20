@@ -879,7 +879,10 @@ h4 {
     color: #F3976C!important;
 }
 .footer_title {
-    color: black;
+    color: black!important;
+}
+.row_button {
+    color: black!important;
 }
 .social_logo {
     color: black!important;
@@ -892,6 +895,15 @@ h4 {
 .bloc-responsive {
     display: flex;
     justify-content: center;
+}
+.row_title {
+    color: black !important;
+}
+.row_description {
+    color: black!important;
+}
+.background-texture::before {
+    opacity: 0.4;
 }
 
 @media (max-width: 1024px) {
